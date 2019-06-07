@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559915509 source:c:\users\house\onedrive\bureau\c\structure\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FONCTION.H"
+
+1559915549 c:\users\house\onedrive\bureau\c\structure\fonction.h
+
+1559913701 source:c:\users\house\onedrive\bureau\c\structure\fonction.c
+	"FONCTION.H"
+
